@@ -89,7 +89,6 @@ max-height: 60vh;
         display: grid;
         grid-template-columns: 1fr;
         gap: 50px;
-        background-color: aliceblue;
     }
 
     .img img, canvas{
